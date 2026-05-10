@@ -53,9 +53,9 @@
    pip install -r requirements.txt
    ```
 
-3. **Запустите Jupyter Notebook:**
+3. Запустите Jupyter Notebook и откройте файл исследования из папки notebooks:
    ```bash
-   jupyter notebook
+   jupyter notebook notebooks/yeti_age_prediction.ipynb
    ```
 
 ## Содержимое репозитория
